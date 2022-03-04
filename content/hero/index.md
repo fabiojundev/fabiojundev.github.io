@@ -1,12 +1,10 @@
 ---
 title: 'Hello World! My name is'
-name: 'Chandrika Deb'
-subtitle: 'I love exploring new things!'
+name: 'Fabio Jun'
+subtitle: 'I love technology!'
 buttonText: 'Contact Me'
 ---
 
-I'm an India based software developer with a goal-driven creative mindset and passion for learning and innovating.
+I'm Brazilian based software developer with a goal-driven flexible mindset and passion for learning and innovating.
 
-Currently working as a Software Developer at [Amdocs](https://www.amdocs.com/) and as a Freelance Content Writer for [Pepper Content](https://www.peppercontent.io).
-
-Outside work, I occasionally blog on [Medium](https://chandrikadeb7.medium.com/). Off-screen, I sketch my thoughts [here](https://pin.it/4W1Rxtj)!
+Currently working as a WordPress Plugin Developer at [WPPluginsDev](https://wpplugins.dev) and a FullStack Web Developer at [Venda de Sites](https://vendadesites.com.br/).
