@@ -1,8 +1,9 @@
 ---
-date: '2'
+date: '2021-12-20'
 title: 'Ivory Search Plugin Performance'
 cover: 'ivorysearch.png'
 external: 'https://wordpress.org/plugins/add-search-to-menu/'
+company: 'IvorySearch'
 tech:
   - WordPress
   - PHP & PHPUnit

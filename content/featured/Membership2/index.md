@@ -1,7 +1,8 @@
 ---
-date: '1'
+date: '2014-11-01'
 title: 'Membership-2 plugin'
 cover: 'membership2.png'
+company: 'Incsub/WPMUDEV'
 github: 'https://github.com/wpmudev/membership-2'
 external: 'https://camadecultivo.com.br'
 tech:

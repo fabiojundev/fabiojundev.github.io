@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2022-02-03'
 title: 'WooCommerce Next JS Frontend'
 cover: 'woonextbr.png'
 github: 'https://github.com/fabiojundev/woo-next-br'

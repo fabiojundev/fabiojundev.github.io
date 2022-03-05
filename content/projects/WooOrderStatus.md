@@ -1,5 +1,5 @@
 ---
-date: '2021-06-15'
+date: '2020-06-15'
 title: 'Woo Order Status'
 github: 'https://github.com/fabiojundev/wppdev-woocommerce-order-status'
 external: 'https://wordpress.org/plugins/wppdev-woocommerce-order-status/'
