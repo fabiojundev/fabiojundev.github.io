@@ -1,38 +1,25 @@
 module.exports = {
-  siteTitle: 'Chandrika Deb | Software Developer | Content Freelancer',
+  siteTitle: 'Fabio Jun | FullStack Developer | WordPress Specialist',
   siteDescription:
-    'Chandrika Deb is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Fabio Jun is a Software Developer at WPPluginsDev, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+    'Fabio Jun, software developer, software engineer, fullStack developer, web developer, tech support, WordPress specialist',
+  siteUrl: 'https://fabiojun.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Chandrika Deb',
-  location: 'Jamshedpur, India',
-  email: 'chandrikadeb7@gmail.com',
-  github: 'https://github.com/chandrikadeb7',
-  twitterHandle: '@chandrikadeb7',
+  googleAnalyticsID: 'tst',
+  googleVerification: 'tsts',
+  name: 'Fabio Jun',
+  location: 'São Paulo, Brazil',
+  email: 'fabiojundev@gmail.com',
+  github: 'https://github.com/fabiojundev',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/fabiojundev',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/chandrikadeb7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
+      url: 'https://www.linkedin.com/in/fabiojun/',
     },
   ],
 

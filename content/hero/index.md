@@ -1,7 +1,7 @@
 ---
 title: 'Hello World! My name is'
 name: 'Fabio Jun'
-subtitle: 'I love technology!'
+subtitle: 'I love learning new things!'
 buttonText: 'Contact Me'
 ---
 

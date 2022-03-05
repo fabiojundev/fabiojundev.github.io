@@ -11,3 +11,5 @@ url: 'https://wpmudev.com/'
 - Elaborated the modeling of software in UML based on the Design Pattern MVC adapted for WordPress.
 
 - 70% less support calls after the [new version](https://github.com/wpmudev/membership-2) has been released.
+
+- Provided level 2 technical support for several company plugins.

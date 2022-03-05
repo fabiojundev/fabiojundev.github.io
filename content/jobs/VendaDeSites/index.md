@@ -11,3 +11,5 @@ url: 'https://vendadesites.com.br'
 - Implemented Linux web and database servers for high performance and availability hosting, using Amazon Web Services - Cloud Computing and Digital Ocean. Also took care of security policies and disaster recovery plans.
 
 - Developed the first version of Website Builder (Click and Build style), using WordPress Multisites for [Locaweb](https://locaweb.com.br), the largest hosting company in Latin America. 
+
+- Conducted training for customers in the use of the developed systems, as well as in the use of WordPress and its plugins.
