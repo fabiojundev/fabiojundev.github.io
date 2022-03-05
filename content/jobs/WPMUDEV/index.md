@@ -4,6 +4,7 @@ title: 'Lead Developer'
 company: 'Incsub/WPMUDEV'
 range: 'March 2014 - November 2014'
 url: 'https://wpmudev.com/'
+showInProjects: false
 ---
 
 - Lead the development of a WordPress plugin to control content exclusively for subscribers, including a billing system, as well as integration with payment gateways such as Paypal, Authorize.net and Stripe.

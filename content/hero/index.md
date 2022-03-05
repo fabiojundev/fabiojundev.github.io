@@ -3,6 +3,7 @@ title: 'Hello World! My name is'
 name: 'Fabio Jun'
 subtitle: 'I love learning new things!'
 buttonText: 'Contact Me'
+showInProjects: false
 ---
 
 I'm Brazilian based software developer with a goal-driven flexible mindset and passion for learning and innovating.

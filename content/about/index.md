@@ -14,6 +14,7 @@ skills:
   - JMeter Performance Tests
   - SEO Content 
   - Affliate Marketing
+showInProjects: false
 ---
 
 Hi! Interestingly, I was introduced to programming at age 13, just to make some games run on an old computer. The passion for technology and programming only increased after that.

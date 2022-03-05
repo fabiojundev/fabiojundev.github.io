@@ -4,6 +4,7 @@ title: 'WordPress Plugin Developer'
 company: 'WPPluginsDev'
 range: 'February 2019 - Present'
 url: 'https://wpplugins.dev'
+showInProjects: false
 ---
 
 - Developed an inverted index search engine that increases the performance of search results by 40% to 60% of the [Ivory Search Plugin](https://wordpress.org/plugins/add-search-to-menu/).
