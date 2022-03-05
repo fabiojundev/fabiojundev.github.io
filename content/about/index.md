@@ -9,9 +9,11 @@ skills:
   - React & Next Js
   - JUnit & Jest & Cypress
   - Linux Server admin 
-  - Docker / Docker Compose
+  - Docker Compose
   - Github Actions (CI/CD)
   - JMeter Performance Tests
+  - SEO Content 
+  - Affliate Marketing
 ---
 
 Hi! Interestingly, I was introduced to programming at age 13, just to make some games run on an old computer. The passion for technology and programming only increased after that.

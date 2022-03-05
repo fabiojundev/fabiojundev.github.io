@@ -174,7 +174,7 @@ const StyledProject = styled.div`
   &:nth-of-type(odd) {
     ${StyledContent} {
       grid-column: 7 / -1;
-      text-align: right;
+      text-align: left;
       ${media.thone`
         grid-column: 1 / -1;
         padding: 40px 40px 30px;
@@ -216,7 +216,7 @@ const Featured = ({ data }) => {
 
   return (
     <StyledContainer id="projects">
-      <Heading ref={revealTitle}>Some Things I&apos;ve Built</Heading>
+      <Heading ref={revealTitle}>Some Projects I&apos;ve delivered</Heading>
 
       <div>
         {featuredProjects &&
