@@ -1,12 +1,12 @@
 <div align="center">
-  <img alt="Logo" src="https://fabiojundev.github.io/resume/blob/code/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://github.com/fabiojundev/resume/blob/code/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   Portfolio Website
 </h1>
 
 <div align="center">
-  <img alt="Demo" src="https://fabiojundev.github.io/resume/blob/code/src/images/demo.png" />
+  <img alt="Demo" src="https://github.com/fabiojundev/resume/blob/code/src/images/demo.png" />
 </div>
 
 ### TL;DR
