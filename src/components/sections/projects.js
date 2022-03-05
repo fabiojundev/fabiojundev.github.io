@@ -147,7 +147,7 @@ const Projects = ({ data }) => {
   return (
     <StyledContainer>
       <StyledTitle ref={revealTitle}>Other Projects</StyledTitle>
-      <StyledArchiveLink to="https://github.com/fabiojundev" ref={revealArchiveLink}>
+      <StyledArchiveLink to="https://github.com/fabiojundev/resume/" ref={revealArchiveLink}>
         Visit my github profile
       </StyledArchiveLink>
 
