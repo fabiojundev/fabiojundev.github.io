@@ -146,9 +146,9 @@ const Projects = ({ data }) => {
 
   return (
     <StyledContainer>
-      <StyledTitle ref={revealTitle}>Other Noteworthy Projects</StyledTitle>
-      <StyledArchiveLink to="/archive" ref={revealArchiveLink}>
-        View Complete List of Projects/Codes
+      <StyledTitle ref={revealTitle}>Other Projects</StyledTitle>
+      <StyledArchiveLink to="https://github.com/fabiojundev" ref={revealArchiveLink}>
+        Visit my github profile
       </StyledArchiveLink>
 
       <StyledGrid>
