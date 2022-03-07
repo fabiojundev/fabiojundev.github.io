@@ -173,6 +173,7 @@ const StyledProject = styled.div`
   }
   &:nth-of-type(odd) {
     ${StyledContent} {
+      z-index: 999;
       grid-column: 7 / -1;
       text-align: left;
       ${media.thone`
@@ -194,6 +195,7 @@ const StyledProject = styled.div`
       margin-right: -10px;
     }
     ${StyledImgContainer} {
+      z-index: -1;
       grid-column: 1 / 8;
       ${media.tablet`height: 100%;`};
       ${media.thone`
