@@ -10,4 +10,4 @@ company: 'Food Finder'
 showInProjects: true
 ---
 
-Developed startup innovations into new features for their website, using Laravel Framework.
+Translated startup innovations requirements into technical solutions, using Laravel Framework.
