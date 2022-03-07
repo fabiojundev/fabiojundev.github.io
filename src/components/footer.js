@@ -106,8 +106,8 @@ const Footer = () => {
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>
-            Designed &amp; Built by Brittany Chiang and Chandrika Deb<br></br>
-            Updated by Fabio Jun
+            Designed &amp; Built by Brittany Chiang <br/>
+            Forked by Fabio Jun
           </div>
 
           {githubInfo.stars && githubInfo.forks && (

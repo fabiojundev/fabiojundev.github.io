@@ -12,4 +12,4 @@
 
   - yarn build
 
-  - yarn deploy
+  - npm run deploy
