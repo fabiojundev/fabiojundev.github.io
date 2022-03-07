@@ -7,7 +7,7 @@ buttonText: 'Contact Me'
 showInProjects: false
 ---
 
-I'm Brazilian based software engineer with a goal-driven flexible mindset and passion for learning and innovating.
+I'm a Brazilian based software engineer with a goal-driven flexible mindset and passion for learning and innovating.
 
 Graduated in Computer Engineering at the University of São Paulo. 
 Building web projects since 2008.
