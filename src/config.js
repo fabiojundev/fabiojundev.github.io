@@ -1,9 +1,9 @@
 module.exports = {
-  siteTitle: 'Fabio Jun | FullStack Developer | WordPress Specialist',
+  siteTitle: 'Fabio Jun | Full Stack Developer | WordPress Specialist',
   siteDescription:
     'Fabio Jun is a Software Developer at WPPluginsDev, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Fabio Jun, software developer, software engineer, fullStack developer, web developer, tech support, WordPress specialist',
+    'Fabio Jun, software developer, software engineer, full stack developer, web developer, tech support, WordPress specialist',
   siteUrl: 'https://fabiojundev.github.io/resume/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'tst',

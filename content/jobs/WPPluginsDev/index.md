@@ -1,6 +1,6 @@
 ---
 date: '2019-02-28'
-title: 'WordPress Plugin Developer'
+title: 'Cofounder | WordPress Plugin Developer'
 company: 'WPPluginsDev'
 range: 'February 2019 - Present'
 url: 'https://wpplugins.dev'

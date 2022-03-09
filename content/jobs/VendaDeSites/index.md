@@ -1,8 +1,8 @@
 ---
-date: '2008-11-07'
-title: 'Software Developer'
+date: '2015-02-01'
+title: 'Cofounder | Developer'
 company: 'Venda de Sites'
-range: 'November 2008 - Present'
+range: 'February 2015 - Present'
 url: 'https://vendadesites.com.br'
 showInProjects: false
 ---
