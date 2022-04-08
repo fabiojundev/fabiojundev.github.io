@@ -4,7 +4,7 @@ module.exports = {
     'Fabio Jun is a Software Developer at WPPluginsDev, who loves learning new things and helping tech beginners.',
   siteKeywords:
     'Fabio Jun, software developer, software engineer, full stack developer, web developer, tech support, WordPress specialist',
-  siteUrl: 'https://fabiojundev.github.io/resume/',
+  siteUrl: 'https://fabiojundev.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'tst',
   googleVerification: 'tsts',
