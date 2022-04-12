@@ -7,7 +7,7 @@ url: 'https://wpmudev.com/'
 showInProjects: false
 ---
 
-- Lead the development of a WordPress plugin to control content exclusively for subscribers, including a billing system, as well as integration with payment gateways such as Paypal, Authorize.net and Stripe.
+- Led the development of a WordPress plugin to control content exclusively for subscribers, including a billing system, as well as integration with payment gateways such as Paypal, Authorize.net and Stripe.
 
 - Elaborated the modeling of software in UML based on the Design Pattern MVC adapted for WordPress.
 
