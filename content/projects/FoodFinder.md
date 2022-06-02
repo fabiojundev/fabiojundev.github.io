@@ -10,4 +10,5 @@ company: 'Food Finder'
 showInProjects: true
 ---
 
-Translated startup innovations requirements into technical solutions, using Laravel Framework.
+Translated startup requirements into technical solutions, using Laravel Framework.
+

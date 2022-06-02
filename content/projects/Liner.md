@@ -9,4 +9,4 @@ company: 'Liner Consultoria'
 showInProjects: true
 ---
 
-A WooCommerce order customization for online courses, allowing to register many students info at once. 
+WooCommerce order customization for online courses, allowing to register many students' info at once.

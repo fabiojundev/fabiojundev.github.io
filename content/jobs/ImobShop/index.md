@@ -10,6 +10,6 @@ showInProjects: false
 
 - Developed bots to scrap properties from several websites using Selenium.
 
-- Implemented an email marketing system to send properties alerts.
+- Implemented an e-mail marketing system to send property alerts and promotions.
 
-- Created an advertising system, allowing to show featured properties at the beginning of the results through payment.
+- Created an advertising system, allowing to show featured properties at the beginning of the results through a payment.

@@ -12,6 +12,6 @@ tech:
 showInProjects: false
 ---
 
-- Developed a new search engine for this WordPress search plugin to improve performance in a large content websites.
-- Used inverted index algorithm and SQL tunnings.
-- Achieved 40% to 60% performance boost in search results.
+- Developed a new search engine for this WordPress search plugin to improve performance in large content websites.
+- Used inverted index algorithm and SQL tuning.
+- Achieved up to 80% performance boost in search results.

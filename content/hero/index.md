@@ -2,7 +2,7 @@
 date: '2022-03-04'
 title: 'Hello World! My name is'
 name: 'Fabio Jun'
-subtitle: 'I Develop Web Solutions'
+subtitle: "I Develop Web Solutions."
 buttonText: 'Contact Me'
 showInProjects: false
 ---

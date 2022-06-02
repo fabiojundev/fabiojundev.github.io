@@ -13,4 +13,4 @@ company: 'Venda de Sites'
 showInProjects: true
 ---
 
-Cofounded agency to offer website solutions, hosting, training and tech support. Multisites WordPress admin.
+Cofounded agency to offer website solutions, hosting, training, and tech support. Multisites WordPress admin.

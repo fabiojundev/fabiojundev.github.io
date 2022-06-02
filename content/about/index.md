@@ -9,7 +9,7 @@ skills:
   - TDD & PHP Unit 
   - Javascript & ES6
   - React & Next Js
-  - JUnit & Jest & Cypress
+  - Jest & Cypress
   - Selenium Tests
   - WordPress Multi Sites Admin 
   - Linux server admin 
@@ -22,7 +22,7 @@ skills:
   - JMeter Performance Tests
   - UML OOP & Design patterns
   - Java & C#
-  - Agile & Best pratices
+  - Agile & Best practices
   - SEO & Affliate Marketing
 showInProjects: false
 ---

@@ -10,4 +10,4 @@ company: 'Noguti'
 showInProjects: true
 ---
 
-Advanced order system to choose from many product options and customizations, like color, text to print, size and quantities using Gravity Forms.
+Advanced order system to choose from many product options and customizations, like color, text to print, size, and quantities using Gravity Forms.

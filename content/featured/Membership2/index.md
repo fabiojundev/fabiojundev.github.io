@@ -15,6 +15,7 @@ showInProjects: false
 
 - A complete rewrite of a problematic, support-intensive plugin.
 - Used MVC design pattern adapted to WordPress for better code organization.
-- Achieved a decrease of about 70% in support calls.
 - Recurring payments integrated with Stripe, Authorize.net, and PayPal payment gateways.
+- Achieved a decrease of about 60% in support calls.
+- Easily understandable and maintainable code.
 

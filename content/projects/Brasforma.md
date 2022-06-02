@@ -13,4 +13,4 @@ company: 'Brasforma'
 showInProjects: true
 ---
 
-Website design, support, hosting, trainning and maintanence of a major Brazilian TV mount company.
+Website design, support, hosting, training, and maintenance of a major Brazilian TV mount company.
