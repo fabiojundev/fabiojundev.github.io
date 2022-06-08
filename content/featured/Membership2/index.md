@@ -13,7 +13,7 @@ tech:
 showInProjects: false
 ---
 
-- A complete rewrite of a problematic, support-intensive plugin.
+- A complete rewrite of a problematic, support-intensive plugin, using PHP best practices.
 - Used MVC design pattern adapted to WordPress for better code organization.
 - Recurring payments integrated with Stripe, Authorize.net, and PayPal payment gateways.
 - Achieved a decrease of about 60% in support calls.
