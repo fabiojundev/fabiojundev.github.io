@@ -1,14 +1,14 @@
 ---
 date: '2008-11-07'
-title: 'CoFounder | Developer'
+title: 'Cofounder | Developer'
 company: 'ImobShop'
 range: 'November 2008 - January 2014'
 showInProjects: false
 ---
 
-- Cofounded a real state portal in Brazil using CakePHP and Google Maps API.
+- Developed a real state portal in Brazil using CakePHP and Google Maps API.
 
-- Developed bots to scrap properties from several websites using Selenium.
+- Created bots to scrap properties from several websites.
 
 - Implemented an e-mail marketing system to send property alerts and promotions.
 

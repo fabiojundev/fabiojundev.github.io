@@ -3,12 +3,13 @@ title: 'About Me'
 avatar: 'me.jpg'
 skills:
   - WordPress Plugins Development
-  - WooCommerce & Payment Gateways
-  - PHP & Laravel Framework
-  - SQL & MySQL & Redis
+  - WooCommerce & Stripe & Payment Gateways
+  - PHP & Laravel & CakePHP
+  - SQL Tuning & MySQL & SQLite & Redis
   - TDD & PHP Unit 
-  - Javascript & ES6
-  - React & Next Js
+  - REST API & GraphQL
+  - Javascript & ES6 & jQuery
+  - React & Redux & NextJS
   - Jest & Cypress
   - Selenium Tests
   - WordPress Multi Sites Admin 
@@ -16,13 +17,14 @@ skills:
   - Nginx & Apache
   - Cloud computing AWS 
   - CDN & Caching
-  - Serverless
+  - Serverless & Heroku & Vercel
   - Docker Compose
   - Github Actions (CI/CD)
   - JMeter Performance Tests
   - UML OOP & Design patterns
   - Java & C#
   - Agile & Best practices
+  - DRY & SOLID principles
   - SEO & Affliate Marketing
 showInProjects: false
 ---

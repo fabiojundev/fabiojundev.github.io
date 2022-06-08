@@ -10,5 +10,4 @@ company: 'Food Finder'
 showInProjects: true
 ---
 
-Translated requirements into technical solutions to create a multi-vendor e-commerce to sell non-standard products, using Laravel Framework.
-
+Collaborated with a startup to optimize the buying of non-standard products. Created a multi-vendor platform using Laravel Framework.
