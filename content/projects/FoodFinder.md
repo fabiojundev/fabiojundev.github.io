@@ -10,5 +10,5 @@ company: 'Food Finder'
 showInProjects: true
 ---
 
-Translated startup requirements into technical solutions, using Laravel Framework.
+Translated requirements into technical solutions to create a multi-vendor e-commerce to sell non-standard products, using Laravel Framework.
 
