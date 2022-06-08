@@ -13,6 +13,6 @@ showInProjects: false
 ---
 
 - A WooCommerce theme built with React and NextJS.
-- Headless WordPress used as CMS backend.
+- Headless WordPress, used as CMS backend.
 - GraphQL to manage cart and checkout.
 - Integrated with Stripe and Brazilian payment gateway.

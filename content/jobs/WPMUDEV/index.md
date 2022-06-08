@@ -11,6 +11,8 @@ showInProjects: false
 
 - Conducted software modeling using UML, based on the MVC Design Pattern adapted for WordPress.
 
+- Rewrote the plugin using PHP Standards Recommendations and best practices. 
+
 - 60% fewer support calls after the [new version](https://github.com/wpmudev/membership-2) was released.
 
 - Provided level 2 technical support for several company plugins.

@@ -7,7 +7,7 @@ company: 'IvorySearch'
 tech:
   - WordPress
   - PHP & PHPUnit
-  - SQL Tunning
+  - SQL Tuning
   - JMeter Tests
 showInProjects: false
 ---
