@@ -19,7 +19,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/fabiojun/',
+      url: 'https://www.linkedin.com/in/fabiojun/?locale=en_US',
     },
   ],
 
