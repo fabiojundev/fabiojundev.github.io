@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-pensieve-tags-js",
     "path": "/pensieve/tags/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Fabio Jun | Full Stack Developer | WordPress Specialist"}},"allMarkdownRemark":{"group":[{"fieldValue":"Docker","totalCount":1},{"fieldValue":"WordPress","totalCount":1}]}},"pageContext":{}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Fabio Jun | WordPress Developer | Full Stack Developer"}},"allMarkdownRemark":{"group":[{"fieldValue":"Docker","totalCount":1},{"fieldValue":"WordPress","totalCount":1}]}},"pageContext":{}},
     "staticQueryHashes": ["3115057458"]}
