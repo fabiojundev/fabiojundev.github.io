@@ -12,4 +12,4 @@ I'm a Full Stack Software Engineer with a flexible mindset and passion for learn
 Graduated in Computer Engineering from the University of São Paulo. 
 Building web projects since 2008.
 
-Currently working as a WordPress Plugin Developer at [WPPluginsDev](https://wpplugins.dev) and building Websites at [Venda de Sites](https://vendadesites.com.br/).
+Currently developing WordPress Plugins and web solutions using PHP, NextJs, Node, React and TDD at [Venda de Sites](https://vendadesites.com.br/).

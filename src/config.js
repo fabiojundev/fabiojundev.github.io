@@ -1,13 +1,13 @@
 module.exports = {
-  siteTitle: 'Fabio Jun | Full Stack Developer | WordPress Specialist',
+  siteTitle: 'Fabio Jun | WordPress Developer | Full Stack Developer',
   siteDescription:
-    'Fabio Jun is a Software Developer at WPPluginsDev, who loves learning new things and helping tech beginners.',
+    'Fabio Jun is a Software Developer, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Fabio Jun, software developer, software engineer, full stack developer, web developer, tech support, WordPress specialist',
+    'Fabio Jun, software developer, software engineer, full stack developer, web developer, tech support, WordPress developer',
   siteUrl: 'https://fabiojundev.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'tst',
-  googleVerification: 'tsts',
+  googleAnalyticsID: 'G-WNXJMK443R',
+  googleVerification: 'ER_aQC3N4mAvPzbTCA-xbCm5Eu6MWMhQrqxgswbW1bo',
   name: 'Fabio Jun',
   location: 'São Paulo, Brazil',
   email: 'fabiojundev@gmail.com',
